@@ -1,6 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.Test;
 import java.awt.*;
+import package Counter;
 
 public class CounterTest {
 
